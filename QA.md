@@ -1,7 +1,7 @@
 Per cambiare lo sfondo del terminale in nero e il colore del testo in bianco su una Raspberry Pi, segui questi passaggi dettagliati:
 
 1. **Apri il Terminale**:
-   - Nel ambiente desktop di Raspberry Pi, trova e apri l'applicazione "Terminale".
+   - Nel   ambiente desktop di Raspberry Pi, trova e apri l'applicazione "Terminale".
 
 2. **Accedi alle Preferenze del Terminale**:
    - Fai clic con il tasto destro all'interno della finestra del terminale e seleziona "Cambia schema di colore" o "Preferenze", a seconda della versione del tuo terminale.
